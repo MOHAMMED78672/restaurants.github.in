@@ -1,0 +1,65 @@
+body{
+    background-image: url(./background-adare-restaurant.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 70%;
+    margin:auto;
+    text-align: center;
+    color:white;
+}
+main{
+    height: 400px;
+    /* background-color: green; */
+}
+
+main img{
+    height: 100%;
+    width: 100%;
+}
+/* Case 1 ->jitna hum size batayegy utha size ka image ,isse kio farak nahi padta image kitna bada hai
+img {
+    height : 200px;
+    weight : 200px;
+ }
+ 
+ Case 2->jinta parent ka size utna image ka size ,isse kio farak nahi pata image kitna bada hai
+ img{
+     height : 100%;
+     weight : 100%;
+     P
+ }*/
+
+ /* lecture-1
+ how does interent work
+ what ia apache server
+ on wghich port does server listen
+ apache server is also allled as
+
+ port 80 is also callled as
+ port 443 is also called as
+
+what is a deamon processs
+
+lecutre -2
+ kio cheez ko centre mein lana k liye 2 options hai
+ margin auto
+ text align center
+ margin auto kab use kare?
+ text align centre kab use karte?
+ 
+ 
+ what is margin ?
+ what is padiing ?
+ what is border?
+ 
+ lecutre -3
+
+ different between 100px vs 100%
+ and basic resturant swebsote
+
+ lecture -4
+ flex box 
+ 
+ */
